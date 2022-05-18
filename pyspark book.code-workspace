@@ -4,8 +4,7 @@
 			"path": "."
 		},
 		{
-			"name": "Essential-PySpark-for-Scalable-Data-Analytics",
-			"path": "..\\Essential-PySpark-for-Scalable-Data-Analytics\\Essential-PySpark-for-Scalable-Data-Analytics"
+			"path": "..\\Essential-PySpark-for-Scalable-Data-Analytics"
 		}
 	],
 	"settings": {}
