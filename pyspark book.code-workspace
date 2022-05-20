@@ -2,9 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "..\\Essential-PySpark-for-Scalable-Data-Analytics"
 		}
 	],
 	"settings": {}
